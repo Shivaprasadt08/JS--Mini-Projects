@@ -21,6 +21,16 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 2. The computer will randomly choose its move.
 3. The result (Win / Lose / Draw) will be displayed instantly.
 
+   
+📁 Project Structure
+   |--OIP (2).jpg
+   |--OIP.jpg
+   |--Update README.md
+   |--basic.html
+   |--download.jpg
+   |--script1.js
+   |--stylo.css
+   
 
 ## 💡 Game Logic
 
@@ -28,6 +38,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 - **Scissors beats Paper**
 - **Paper beats Rock**
 - If both player and computer pick the same – it's a draw!
+
 
 ## 📦 How to Run Locally
 
