@@ -33,4 +33,4 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com//rock-paper-scissors.git
+   https://github.com/Shivaprasadt08/JS--Mini-Projects.git
